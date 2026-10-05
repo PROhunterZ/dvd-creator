@@ -1,0 +1,8 @@
+# Project-specific overrides
+
+# Text file normalization
+*.jpeg binary
+Cargo.lock linguist-generated
+
+*.tsx linguist-detectable
+public/**/*.html linguist-vendored
